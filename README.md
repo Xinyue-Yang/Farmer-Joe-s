@@ -1,2 +1,2 @@
 # Farmer-Joe-s
-a MERN e-commerce web application
+an e-commerce web application
